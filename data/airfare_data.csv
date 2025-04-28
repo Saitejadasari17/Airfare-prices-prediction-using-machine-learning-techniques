@@ -1,0 +1,6 @@
+Airline | Source | Destination | Total_Stops | Duration | Journey_day | Journey_month | Dep_hour | Price
+IndiGo | Delhi | Cochin | 1 stop | 180 | 15 | 3 | 6 | 4500
+Air India | Kolkata | Delhi | 2 stops | 300 | 22 | 7 | 14 | 7600
+SpiceJet | Mumbai | Hyderabad | non-stop | 90 | 10 | 11 | 9 | 3900
+Vistara | Chennai | New Delhi | 1 stop | 240 | 5 | 8 | 7 | 6700
+GoAir | Bangalore | Kolkata | 3 stops | 600 | 12 | 4 | 21 | 10500
